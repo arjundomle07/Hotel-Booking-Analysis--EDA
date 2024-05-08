@@ -4,3 +4,5 @@ This project is related to Hotel Booking having two hotel description i.e City H
 Before visualize any data from the data set we have to do data wrangling. For that, we are checked the null value of all the columns. After checking, when we are getting a column which has more number of null values, dropped that column by using the 'drop' method. In this way, we are dropped the 'company' column. When we are find minimal number of null values, filling thse null values with necesary values as per requirement by using .fillna()
 
 Different charts are used for data visualization so that better insights and Business objective is attained.
+
+| [Linkedin Profile](https://www.linkedin.com/in/arjun-domle/) | [Power BI Projects](https://www.novypro.com/profile_projects/arjun-domle)
